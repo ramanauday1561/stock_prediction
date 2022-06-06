@@ -1,0 +1,8 @@
+streamlit==1.1.0
+plotly==5.1.0
+matplotlib
+numpy
+pandas
+pandas_datareader
+sklearn
+keras
