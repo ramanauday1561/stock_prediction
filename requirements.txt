@@ -5,3 +5,4 @@ numpy
 pandas
 pandas_datareader
 sklearn
+keras==2.2.1
