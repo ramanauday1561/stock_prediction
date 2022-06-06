@@ -1,8 +1,8 @@
-!pip install --upgrade pandas-datareader
+pip install --upgrade pandas-datareader
 
-!pip install --upgrade pandas
+pip install --upgrade pandas
 
-!pip install --upgrade matplotlib
+pip install --upgrade matplotlib
 
 import numpy as np
 import pandas as pd
