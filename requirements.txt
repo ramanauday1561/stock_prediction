@@ -1,8 +1,9 @@
-streamlit==1.1.0
-plotly==5.1.0
+tensorflow
+streamlit
+plotly
 matplotlib
 numpy
 pandas
 pandas_datareader
 sklearn
-keras==2.2.1
+keras
